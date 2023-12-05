@@ -26,7 +26,7 @@ This project requires **Python** and the following Python libraries installed:
 ![JelajahI Community](https://raw.githubusercontent.com/reynard26/Jelajahi-Assets/main/CommunityPage.png)
 *for further details: [See JelajahI UI on Figma](https://www.figma.com/file/7gfDZmAeQ5EVfZHZPR8d2c/Jelajahi-UI?type=design&mode=design&t=iQkAzNPeyt11UHrn-0) || [See JelajahI UI Assets on GitHub](https://github.com/reynard26/Jelajahi-Assets)*
 
-# Team Member
+# CH2-PS431 Team Members
 [(Back to top)](#table-of-contents)
 
 |              Name              | Bangkit-ID |   Learning Path    |                                                       Contact Link                                                       |
@@ -39,9 +39,7 @@ This project requires **Python** and the following Python libraries installed:
 |        Zafran Divac Azzahra         | C002BSY3666 |  Cloud Computing   |        [LinkedIn](https://www.linkedin.com/in/zafran-divac/)   and [GitHub](https://github.com/zafrandivac)     |
 
 
-# Repository
-[(Back to top)](#table-of-contents)
-
+# Full JelajahI Repository
 |   Learning Paths   |                                Link                                |
 | :----------------: | :----------------------------------------------------------------: |
 | Machine Learning  | [Github](https://github.com/ameliarahmanita/JelajahI-MLTeam)  |
@@ -49,6 +47,4 @@ This project requires **Python** and the following Python libraries installed:
 | Cloud Computing  | [Github](https://github.com/zafrandivac/CH2-PS431-JelajahI)  |
 
 # Copyright
-[(Back to top)](#table-of-contents)
-
-**© Bangkit Team CH2-PS431**
+***© Bangkit Team CH2-PS431***
