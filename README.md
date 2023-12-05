@@ -24,7 +24,7 @@ This project requires **Python** and the following Python libraries installed:
 ![JelajahI Home](https://raw.githubusercontent.com/reynard26/Jelajahi-Assets/main/HomePage.png)
 ![JelajahI Explore](https://raw.githubusercontent.com/reynard26/Jelajahi-Assets/main/ExplorePage.png)
 ![JelajahI Community](https://raw.githubusercontent.com/reynard26/Jelajahi-Assets/main/CommunityPage.png)
-*for further details: [JelajahI UI Assets](https://github.com/reynard26/Jelajahi-Assets)*
+*for further details: [See JelajahI UI on Figma](https://www.figma.com/file/7gfDZmAeQ5EVfZHZPR8d2c/Jelajahi-UI?type=design&mode=design&t=iQkAzNPeyt11UHrn-0) || [See JelajahI UI Assets on GitHub](https://github.com/reynard26/Jelajahi-Assets)*
 
 # Team Member
 [(Back to top)](#table-of-contents)
@@ -51,4 +51,4 @@ This project requires **Python** and the following Python libraries installed:
 # Copyright
 [(Back to top)](#table-of-contents)
 
-**Bangkit Team CH2-PS431**
+**© Bangkit Team CH2-PS431**
