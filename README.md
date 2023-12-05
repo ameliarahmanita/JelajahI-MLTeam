@@ -20,9 +20,11 @@ This project requires **Python** and the following Python libraries installed:
 - [tensorflowjs](https://www.tensorflow.org/js)
 
 ## Mockup Preview
-![JelajahI](https://raw.githubusercontent.com/zee-azha/Asset/main/MobileApps/8.png)
-![JelajahI](https://raw.githubusercontent.com/zee-azha/Asset/main/MobileApps/9.png)
-![JelajahI](https://raw.githubusercontent.com/zee-azha/Asset/main/MobileApps/10.png)
+![JelajahI Splash Screens](https://raw.githubusercontent.com/reynard26/Jelajahi-Assets/main/SplashScreen.png)
+![JelajahI Home](https://raw.githubusercontent.com/reynard26/Jelajahi-Assets/main/HomePage.png)
+![JelajahI Explore](https://raw.githubusercontent.com/reynard26/Jelajahi-Assets/main/ExplorePage.png)
+![JelajahI Community](https://raw.githubusercontent.com/reynard26/Jelajahi-Assets/main/CommunityPage.png)
+*for further details: [JelajahI UI Assets](https://github.com/reynard26/Jelajahi-Assets)*
 
 # Team Member
 [(Back to top)](#table-of-contents)
@@ -49,4 +51,4 @@ This project requires **Python** and the following Python libraries installed:
 # Copyright
 [(Back to top)](#table-of-contents)
 
-Bangkit Team CH2-PS431
+**Bangkit Team CH2-PS431**
